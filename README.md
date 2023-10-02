@@ -57,7 +57,7 @@ You need to create the following relationships:
 
 Start by creating the models and migrations for the following database tables:
 
-![domain diagram](/code-challenge/domain.png)
+![domain diagram](/python-code-challenge-superheroes/code-challenge/domain.png)
 
 Add any code needed in the model files to establish the relationships.
 

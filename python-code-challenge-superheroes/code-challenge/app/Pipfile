@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
-flask-sqlalchemy = "*"
 flask-migrate = "*"
+flask-restful = "*"
+flask-sqlalchemy = "*"
 sqlalchemy-serializer = "*"
 sqlalchemy = "*"
 
